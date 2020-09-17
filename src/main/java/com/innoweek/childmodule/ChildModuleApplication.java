@@ -6,6 +6,7 @@ public class ChildModuleApplication {
 		System.out.print("I have made a small change to the child-module");
 		System.out.print("Geweldige nieuwe feature!");
 		System.out.print("Klaar.");
+		System.out.print("Wat werk aan een nieuwe mooie feature.");
 	}
 
 }
