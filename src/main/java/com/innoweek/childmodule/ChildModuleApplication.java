@@ -1,13 +1,9 @@
 package com.innoweek.childmodule;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-@SpringBootApplication
 public class ChildModuleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ChildModuleApplication.class, args);
+		System.out.print("I have made a small change to the child-module");
 	}
 
 }
