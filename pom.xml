@@ -12,7 +12,7 @@
 
 	<groupId>com.innoweek</groupId>
 	<artifactId>child-module</artifactId>
-	<version>0.0.1-mooiefeature-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>child-module</name>
 	<description>innoweek</description>
 
